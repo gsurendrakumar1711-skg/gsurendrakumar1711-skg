@@ -1,3 +1,14 @@
+#hi  👋, I'm Surendra
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- ☁️ Learning AWS Cloud & DevOps
+- 🤖 Passionate about AI, Machine Learning and Deep Learning
+- 🔍 Building RAG-based Applications
+- 🚀 Developing Backend Applications using Node.js and Express.js
+- 🐳 Exploring Docker, Jenkins, Terraform and Ansible
+- 📈 Preparing for Software Development and Cloud Engineering Roles
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
