@@ -35,3 +35,8 @@
 - GitHub
 - VS Code
 - Postman
+- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsurendrakumar1711-skg&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendrakumar1711-skg&layout=compact)
