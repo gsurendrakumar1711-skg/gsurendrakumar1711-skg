@@ -1,16 +1,37 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**gsurendrakumar1711-skg/gsurendrakumar1711-skg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
 
-Here are some ideas to get you started:
+### Data Science & AI
+- Data Science
+- Machine Learning
+- Deep Learning
+- RAG (Retrieval-Augmented Generation)
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+
+### Cloud & DevOps
+- AWS
+- Docker
+- Jenkins
+- Terraform
+- Ansible
+- Git
+- Linux
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools & Technologies
+- GitHub
+- VS Code
+- Postman
