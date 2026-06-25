@@ -1,8 +1,16 @@
-# Hi 👋, I'm Surendra Kumar Gude
+<h1 align="center">Hi 👋, I'm Surendra Kumar Gude</h1>
 
-### Data Science Student | AI/ML Engineer | Backend Developer | Cloud & DevOps Enthusiast | DSA Learner
+<h3 align="center">
+Data Science Student | AI/ML Engineer | Backend Developer | Cloud & DevOps Enthusiast | DSA Learner
+</h3>
 
-Passionate about building real-world AI-powered systems, scalable backend applications, cloud-based architectures, and machine learning solutions.
+<p align="center">
+Passionate about building AI-powered systems, scalable backend applications, cloud architectures, and real-world machine learning projects.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+Science+Student;AI%2FML+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Building+Real-World+Projects" />
+</p>
 
 ---
 
@@ -31,6 +39,7 @@ Passionate about building real-world AI-powered systems, scalable backend applic
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge)
 ![BM25](https://img.shields.io/badge/BM25-3A3A3A?style=for-the-badge)
@@ -43,7 +52,7 @@ Passionate about building real-world AI-powered systems, scalable backend applic
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
-### Databases
+### Databases / Search
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -94,6 +103,23 @@ Distributed job scheduling platform that allows users to create, manage, schedul
 
 ---
 
+### 🛡 MalwareShield AI — Advanced Malware Detection
+
+Machine learning project focused on classifying malware-related samples using preprocessing, feature engineering, model training, and evaluation.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Machine Learning, Classification, FastAPI, Docker
+
+**Key Highlights:**
+
+* Built an advanced malware classification system to identify malicious and benign samples
+* Performed preprocessing, feature engineering, model training, and model evaluation
+* Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix analysis
+* Added backend/API and Docker-based structure to make the project more deployment-ready
+
+🔗 [View Project](https://github.com/gsurendrakumar1711-skg/malwareshield-ai-advanced)
+
+---
+
 ### ☁️ AWS Multi-Tier Web Application Architecture
 
 Secure three-tier AWS architecture designed using networking, compute, load balancing, database, IAM, and security group concepts.
@@ -110,19 +136,6 @@ Secure three-tier AWS architecture designed using networking, compute, load bala
 
 ---
 
-### 🛡 MalwareShield AI — Advanced Malware Detection
-
-Machine learning project focused on classifying malware-related samples using preprocessing, feature engineering, model training, and evaluation.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Machine Learning, Classification, FastAPI, Docker  
-
-**Key Highlights:**
-- Built an advanced malware classification system to identify malicious and benign samples
-- Performed preprocessing, feature engineering, model training, and model evaluation
-- Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix analysis
-- Added backend/API and Docker-based structure to make the project more deployment-ready
-
-🔗 [View Project](https://github.com/gsurendrakumar1711-skg/malwareshield-ai-advanced)
 ## 🏆 Achievements
 
 🥉 Secured **3rd place among 300+ participants** in **Code Carnival**, conducted by the Department of AI&ML, Aditya University.
@@ -141,9 +154,13 @@ Machine learning project focused on classifying malware-related samples using pr
 
 ## 📊 GitHub Stats
 
-![Surendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsurendrakumar1711-skg\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsurendrakumar1711-skg&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendrakumar1711-skg\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendrakumar1711-skg&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
