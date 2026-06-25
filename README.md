@@ -110,20 +110,19 @@ Secure three-tier AWS architecture designed using networking, compute, load bala
 
 ---
 
-### 🛡 Malware Detection using Machine Learning
+### 🛡 MalwareShield AI — Advanced Malware Detection
 
 Machine learning project focused on classifying malware-related samples using preprocessing, feature engineering, model training, and evaluation.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Machine Learning, Classification
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Machine Learning, Classification, FastAPI, Docker  
 
 **Key Highlights:**
+- Built an advanced malware classification system to identify malicious and benign samples
+- Performed preprocessing, feature engineering, model training, and model evaluation
+- Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix analysis
+- Added backend/API and Docker-based structure to make the project more deployment-ready
 
-* Built a malware classification model to identify malicious and benign samples
-* Performed preprocessing, feature engineering, model training, and evaluation
-* Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix analysis
-
----
-
+🔗 [View Project](https://github.com/gsurendrakumar1711-skg/malwareshield-ai-advanced)
 ## 🏆 Achievements
 
 🥉 Secured **3rd place among 300+ participants** in **Code Carnival**, conducted by the Department of AI&ML, Aditya University.
